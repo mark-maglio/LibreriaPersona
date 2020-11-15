@@ -20,6 +20,5 @@ namespace LibreriaPersona
             this.altezza = altezza;
             this.classe = classe;
         }
-
     }
 }
